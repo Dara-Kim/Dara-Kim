@@ -1,12 +1,1 @@
-### Hi there 👋, my name is Daeun
-#### I am GitHub Readme Generator's creator
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: Python/Machine Learning/Deep Learning
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
+안녕하세요, 데이터 기반 사고를 통해 미래 가치를 창출해내는 데이터 사이언티스트로 성장하고자 하는 김다은입니다.
